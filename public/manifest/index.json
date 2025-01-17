@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-  "name": ".:My Life’s ROMset:. / MartinM",
-  "short_name": ".:My Life’s ROMset:. / MartinM",
+  "name": ".:My Life’s ROMset:. by MartinM",
+  "short_name": ".:My Life’s ROMset:. by MartinM",
   "start_url": "/",
   "display": "standalone",
   
