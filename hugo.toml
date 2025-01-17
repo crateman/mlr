@@ -1,6 +1,6 @@
 baseURL = 'https://crateman.github.io/'
 languageCode = 'en-us'
-title = '.:My Life’s ROMset:. / MartinM'
+title = '.:My Life’s ROMset:.'
 theme = 'ficurinia'
 canonifyURLs = true
 
