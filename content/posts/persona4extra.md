@@ -1,11 +1,11 @@
 +++
 date = '2025-01-17'
 draft = false
-title = 'Persona 4 Golden'
+title = 'Persona 4 Golden Extra'
 tags = ['ROMset','Persona']
 +++
 
-![Persona 4 Intro](/images/persona4_1.gif)
+![Persona 4 Intro](/images/persona4_0.gif)
 
 I’ve always though video games can be an effective medium to convey certain stories and emotions. Persona 4 does a magnificent job at it. This is a game that came to my life in a pretty interesting time and which managed to do two things: rekindle my passion for story driven games and give me some perspective regarding my life.
 
