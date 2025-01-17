@@ -5,7 +5,7 @@ title = 'Persona 4'
 tags = ['ROMset','Persona']
 +++
 
-![Persona 4 Intro](/images/persona4_1.gif)
+![Persona 4 Intro](/mlr/images/persona4_1.gif)
 
 I’ve always though video games can be an effective medium to convey certain stories and emotions. Persona 4 does a magnificent job at it. This is a game that came to my life in a pretty interesting time and which managed to do two things: rekindle my passion for story driven games and give me some perspective regarding my life.
 
@@ -23,4 +23,4 @@ And, for the record…
 
 #TeamChie
 
-![Persona 4 Intro](/images/p4g_boxart_rp.jpg)
+![Persona 4 Intro](/mlr/images/p4g_boxart_rp.jpg)
