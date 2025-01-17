@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Tags on .:My Life’s ROMset:. / MartinM</title>
-    <link>https://crateman.github.io/tags/</link>
+    <link>https://crateman.github.io/mlr/tags/</link>
     <description>Recent content in Tags on .:My Life’s ROMset:. / MartinM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MartinM - Documenting my life, one ROM at the time.</copyright>
-    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://crateman.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><icon>https://crateman.github.io/logo.png</icon>
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://crateman.github.io/mlr/tags/index.xml" rel="self" type="application/rss+xml" /><icon>https://crateman.github.io/logo.png</icon>
     
     
     <item>
       <title>Persona</title>
-      <link>https://crateman.github.io/tags/persona/</link>
+      <link>https://crateman.github.io/mlr/tags/persona/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://crateman.github.io/tags/persona/</guid>
+      <guid>https://crateman.github.io/mlr/tags/persona/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -23,10 +23,10 @@
     
     <item>
       <title>Personal</title>
-      <link>https://crateman.github.io/tags/personal/</link>
+      <link>https://crateman.github.io/mlr/tags/personal/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://crateman.github.io/tags/personal/</guid>
+      <guid>https://crateman.github.io/mlr/tags/personal/</guid>
       <description><![CDATA[]]></description>
       
     </item>
@@ -35,10 +35,10 @@
     
     <item>
       <title>ROMset</title>
-      <link>https://crateman.github.io/tags/romset/</link>
+      <link>https://crateman.github.io/mlr/tags/romset/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://crateman.github.io/tags/romset/</guid>
+      <guid>https://crateman.github.io/mlr/tags/romset/</guid>
       <description><![CDATA[]]></description>
       
     </item>

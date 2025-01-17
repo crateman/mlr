@@ -1,4 +1,4 @@
-baseURL = 'https://crateman.github.io'
+baseURL = 'https://crateman.github.io/mlr/'
 languageCode = 'en-us'
 title = '.:My Life’s ROMset:. / MartinM'
 theme = 'ficurinia'
@@ -7,7 +7,6 @@ defaultContentLanguage = "en"
 
 copyright = "MartinM - Documenting my life, one ROM at the time."
 
-paginate = 8  # number of articles per page in the index
 summaryLength = 50  # number of words for article summaries
 
 
