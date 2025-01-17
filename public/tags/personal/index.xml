@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Personal on .:My Life’s ROMset:. / MartinM</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on .:My Life’s ROMset:. / MartinM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MartinM - Documenting my life, one ROM at the time.</copyright>
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.png</icon>
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description><![CDATA[<p>Hello reader! I hope you are doing great. This is me, once again shouting to the void. But this time it feels a bit different.</p>
+<p>First, a bit context for why I’m this. I stumbled into <a href="https://lmnt.me/">Louie Mantia’s blog</a> a few weeks ago and a <a href="https://lmnt.me/blog/reclamation.html">few things</a> <a href="https://lmnt.me/blog/creating-for-myself.html">started to resonate</a>. Louie has been an artist I have admired for a good chunk of my life, creating beautiful icons and wallpapers that I’ve used over the years. His written words have set in motion a plan that I had in the back of my mind for a while.</p>
+<p>I’m 35. The internet came into my life at around 10. Throughout my life online, I’ve always been fascinated with the idea of freely share information and just put it out there. To this day, I still have tons of respect for the people that do it. I tried a few times to have some sort of thought repository, but ultimately I ended up taking them down.</p>
+<p>I became very aware over the past few months about the notion of everything we do or share online is no longer -ours-. It belongs to whatever platform you use. Somehow, I miss the sentiment of the internet being built by regular folks—like you and me. This is me, bringing back a small piece of the internet that has meant a lot over the years. For me first and foremost, but also to share with the world as is.</p>
+<h2 id="why-my-lifes-romset">Why “My Life’s ROMset?”</h2>
+<p>A ROM (Read-Only Memory) file contains the data that makes up a video game in the context of emulation. A ROMset is a collection of the individual ROM files that comprise a set of games available for a particular platform. I like to think as this written experiences that I intend to post here as ROMs from my life. I also want to write about the video games that have ment something in my life, but from my particular context. ‘Pit Fighter’ might be a really shitty fighting game, but turns out it’s one of my earliest memories and it’s tied to core memories of my father taking me to the arcade on weekends.</p>
+<p>Thanks for stopping by. I wish you the best.</p>
+<p>MartinM</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

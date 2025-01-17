@@ -1,0 +1,54 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '.:My Life’s ROMset:. / MartinM'
+theme = 'ficurinia'
+
+defaultContentLanguage = "en"
+
+copyright = "MartinM - Documenting my life, one ROM at the time."
+
+paginate = 8  # number of articles per page in the index
+summaryLength = 50  # number of words for article summaries
+
+
+[params]
+
+author = "MartinM"
+description = "Documenting my life, one ROM at the time."
+
+# It's best to put these icons in the "static" folder of your site
+logo = "/logo.png"
+favicon = "/favicon.png"  # 32x32
+faviconIco = "/favicon.ico"  # 32x32
+appletouch = "/apple-touch-icon.png"  # 180x180
+icon512 = "/icon512.png"  # 512x512 png image
+
+showTags = true  # show the Tags menu item; default true
+showRss = true  # show the link for the RSS feed; default true
+
+imageInArticlePreview = true
+fitImageInArticlePreview = true
+articleSummary = true
+
+paperCards = false
+gridView = true
+enableShadow = true
+
+enableSidebarLayout = false
+
+[menu]
+    # these links will be added to the main navigation menu, sorted by weight
+    # other elements in this menu are added automatically from the "pages" folder
+    # the folder it will look into can be customized with the pages variable
+    # in params above
+    [[menu.main]]
+        identifier = "about"
+        name = "About.nfo"
+        url = "/about"
+        weight = 10
+    [[menu.icons]]
+        identifier = "linkedin"
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/martinmelendezo/"
+        weight = 10
+

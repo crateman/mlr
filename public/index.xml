@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>.:My Life’s ROMset:. / MartinM</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on .:My Life’s ROMset:. / MartinM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MartinM - Documenting my life, one ROM at the time.</copyright>
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/logo.png</icon>
+    
+    
+    <item>
+      <title>Persona 4</title>
+      <link>http://localhost:1313/posts/persona4/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/persona4/</guid>
+      <description><![CDATA[<p><img src="/images/persona4_1.gif" alt="Persona 4 Intro"></p>
+<p>I’ve always though video games can be an effective medium to convey certain stories and emotions. Persona 4 does a magnificent job at it. This is a game that came to my life in a pretty interesting time and which managed to do two things: rekindle my passion for story driven games and give me some perspective regarding my life.</p>
+<p>Persona 4 is a game I wouldn’t have played in normal circumstances: A 60+ hours JRPG with Anime aesthetic and tropes. This description alone made it an unappealing proposition at the time—I’ve became more selective in terms of which game I play. However, I’ve heard in the past so much about the game and how good it was from people I knew shared very similar taste in games. Seeing the game on sale on PSN was the last push I needed.</p>
+<p>“Role Playing Game” is a term that defines Persona 4 in the literal sense, and not in what we expect from the term nowadays. During my whole experience I was compelled to play a “role” and immerse myself in the setting; The protagonist is a shell meant to be filled by you, the player, in that setting. This is one of the key aspects that made the amalgamation of gameplay, story and themes feel meaningful throughout my experience.</p>
+<p>The greatest achievement of Persona 4 is how it manages to combine a theme (‘finding your true self’) with gameplay elements and the stories of the characters. Borrowing heavily from Jungian psychology, Persona 4 presents you a setting in which each character has its own story arch dealing with the ‘finding your true self’ theme. By making story and character progression a essential factor in gameplay flow, Persona 4 actively drives players into the narrative construct. This proved to be a quite powerful narrative technique as it made me genuinely “care” about the characters. Yosuke, Chie, Yukiko, Kanji, Rise, Naoto, Dojima, Nanako, Marie… their history, tied to the particular Arcana they represented, drove me to continue playing. I would spend each in game day actually thinking hard on how I would spend time with the characters, instead of just going through the motions. This is were the magic happened: gameplay and story went hand in hand, complementing each other.</p>
+<p>What I described in the last paragraph wouldn’t be as powerful and motive enough if it weren&rsquo;t for the fabulous soundtrack (According to Last.fm, I’ve 1,000+ scrobbles), the polished-to-shine presentation, the gorgeous looking UI, and amazing character design. The overall package is quite refined.</p>
+<p>I started playing Persona 4 shortly after I decided to start an entrepreneurial venture along with some of the most talented people I’ve encountered in the past years. At the time, it made me realize how lucky I am for being around the people that care for me. When dealing with challenges, the best support I have is right there, next to me: my family, my friends, my peers… they all play a very important role in how I face challenges and define a big part of who am I. Persona 4 made me reflect about the importance that people around me have.</p>
+<p>And, for the record…</p>
+<p>#TeamChie</p>
+<p><img src="/images/p4g_boxart_rp.jpg" alt="Persona 4 Intro"></p>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description><![CDATA[<p>Hello reader! I hope you are doing great. This is me, once again shouting to the void. But this time it feels a bit different.</p>
+<p>First, a bit context for why I’m this. I stumbled into <a href="https://lmnt.me/">Louie Mantia’s blog</a> a few weeks ago and a <a href="https://lmnt.me/blog/reclamation.html">few things</a> <a href="https://lmnt.me/blog/creating-for-myself.html">started to resonate</a>. Louie has been an artist I have admired for a good chunk of my life, creating beautiful icons and wallpapers that I’ve used over the years. His written words have set in motion a plan that I had in the back of my mind for a while.</p>
+<p>I’m 35. The internet came into my life at around 10. Throughout my life online, I’ve always been fascinated with the idea of freely share information and just put it out there. To this day, I still have tons of respect for the people that do it. I tried a few times to have some sort of thought repository, but ultimately I ended up taking them down.</p>
+<p>I became very aware over the past few months about the notion of everything we do or share online is no longer -ours-. It belongs to whatever platform you use. Somehow, I miss the sentiment of the internet being built by regular folks—like you and me. This is me, bringing back a small piece of the internet that has meant a lot over the years. For me first and foremost, but also to share with the world as is.</p>
+<h2 id="why-my-lifes-romset">Why “My Life’s ROMset?”</h2>
+<p>A ROM (Read-Only Memory) file contains the data that makes up a video game in the context of emulation. A ROMset is a collection of the individual ROM files that comprise a set of games available for a particular platform. I like to think as this written experiences that I intend to post here as ROMs from my life. I also want to write about the video games that have ment something in my life, but from my particular context. ‘Pit Fighter’ might be a really shitty fighting game, but turns out it’s one of my earliest memories and it’s tied to core memories of my father taking me to the arcade on weekends.</p>
+<p>Thanks for stopping by. I wish you the best.</p>
+<p>MartinM</p>
+]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 13 Jan 2025 17:55:11 -0600</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description><![CDATA[<h1 id="hi">Hi!</h1>
+<p>You have reached the personal space of MartinM. This is just a remporary placeholder while we get it up to snuff. Thanks for swinging by!</p>
+]]></description>
+      
+    </item>
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss>

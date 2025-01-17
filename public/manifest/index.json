@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": ".:My Life’s ROMset:. / MartinM",
+  "short_name": ".:My Life’s ROMset:. / MartinM",
+  "start_url": "/",
+  "display": "standalone",
+  
+  
+  
+  "background_color": "#242629",
+  "theme_color": "#008080"
+  
+    ,
+    "description": "Documenting my life, one ROM at the time."
+  
+  
+    ,
+    "icons": [
+      {
+        "src": "/icon512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "/icon512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+  
+}
+
