@@ -47,8 +47,13 @@ enableSidebarLayout = false
         url = "/about"
         weight = 10
     [[menu.icons]]
+        identifier = "bluesky"
+        name = "Bluesky"
+        url = "https://bsky.app/profile/crateman.bsky.social"
+        weight = 10
+    [[menu.icons]]
         identifier = "linkedin"
         name = "LinkedIn"
         url = "https://www.linkedin.com/in/martinmelendezo/"
-        weight = 10
+        weight = 20
 
