@@ -47,7 +47,7 @@ enableSidebarLayout = false
         url = "/about"
         weight = 10
     [[menu.icons]]
-        identifier = "bluesky"
+        identifier = "twitter"
         name = "Bluesky"
         url = "https://bsky.app/profile/crateman.bsky.social"
         weight = 10
