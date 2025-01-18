@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta charset="UTF-8"/>
         
-        <link type="text/css" rel="stylesheet" href="http://localhost:1313/css/styles.63abf852e2b2f3433a03da3ec5e973539d0a2fe5c550760196cb7569ac8531071290e477bf0f2b2e33fca3939ec5d07639576ba39cb165d9f1b23e8b01e19ebb.css" integrity="sha512-Y6v4UuKy80M6A9o+xelzU50KL+XFUHYBlst1aayFMQcSkOR3vw8rLjP8o5OexdB2OVdro5yxZdnxsj6LAeGeuw==" />
+        <link type="text/css" rel="stylesheet" href="https://crateman.github.io/css/styles.63abf852e2b2f3433a03da3ec5e973539d0a2fe5c550760196cb7569ac8531071290e477bf0f2b2e33fca3939ec5d07639576ba39cb165d9f1b23e8b01e19ebb.css" integrity="sha512-Y6v4UuKy80M6A9o+xelzU50KL+XFUHYBlst1aayFMQcSkOR3vw8rLjP8o5OexdB2OVdro5yxZdnxsj6LAeGeuw==" />
         <style>
           .aboutfeeds {
             margin: 24px 0; padding: 12px;
