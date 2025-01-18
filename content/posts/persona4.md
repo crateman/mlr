@@ -23,4 +23,4 @@ And, for the record…
 
 #TeamChie
 
-![Persona 4 Intro](/images/p4g_boxart_rp.jpg)
+![Persona 4 Golden Boxart](/images/p4g_boxart_rp.jpg)
