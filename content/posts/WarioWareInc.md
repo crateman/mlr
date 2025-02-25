@@ -5,7 +5,7 @@ title = 'WarioWare, Inc.: Mega Microgames! (GBA, 2003)'
 tags = ['ROMset','Wario Ware']
 
 +++
-### WarioWare is weird. It also might be one of my favorite Nintendo game ever. 
+### WarioWare is weird. It also might be one of my favorite Nintendo games ever. 
 It’s Nintendo embracing its most joyful, off-beat and simply weird nature—a love letter to itself and the medium it shaped.
 
 ![WarioWare, Inc.](/images/WarioWare_Box.jpeg)
@@ -26,4 +26,4 @@ I love how authentic WarioWare, Inc. is. Unique, yet laser-focused on its goal: 
 
 Hirofumi Matsuoka is credited as Director, and by looking at the games he has been part of, I can draw a line joining some of favorite games from that time: Mario Paint, Warioland 4 and WarioWare, Inc. while I have never played the Mario Artist games (I yet have to dip my feet on the 64DD library), but I can see glimpses of the quirkiness that makes WarioWare so special.
 
-Maybe we all need to pull-off a WarioWare in our lives: be unapologetically authentic and fun, just for the sake of it.
+Maybe we all need to pull-off a Wario Ware in our lives: be unapologetically authentic and fun, just for the sake of it.
