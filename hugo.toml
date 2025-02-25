@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 
 copyright = "MartinM - Documenting my life, one ROM at the time."
 
-summaryLength = 50  # number of words for article summaries
+summaryLength = 35  # number of words for article summaries
 
 
 [params]
@@ -27,10 +27,10 @@ showTags = true  # show the Tags menu item; default true
 showRss = true  # show the link for the RSS feed; default true
 
 imageInArticlePreview = true
-fitImageInArticlePreview = true
+fitImageInArticlePreview = false
 articleSummary = true
 
-paperCards = false
+paperCards = true
 gridView = true
 enableShadow = true
 

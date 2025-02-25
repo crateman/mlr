@@ -3,21 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-18T15:49:00-06:00</lastmod>
+    <lastmod>2025-02-24T22:14:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-24T22:14:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/romset/</loc>
+    <lastmod>2025-02-24T22:14:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-24T22:14:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wario-ware/</loc>
+    <lastmod>2025-02-24T22:14:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/wariowareinc/</loc>
+    <lastmod>2025-02-24T22:14:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/fortuneonpackardbell/</loc>
+    <lastmod>2025-01-29T10:34:24-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/final-fight/</loc>
     <lastmod>2025-01-18T15:49:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/finalfight/</loc>
-    <lastmod>2025-01-18T15:49:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-18T15:49:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/romset/</loc>
-    <lastmod>2025-01-18T15:49:00-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-18T15:49:00-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/persona/</loc>
